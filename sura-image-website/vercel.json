@@ -1,3 +1,4 @@
+</> JSON
 {
   "routes": [
     { "src": "/(.*)", "dest": "/index.html" }
